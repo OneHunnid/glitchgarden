@@ -58,7 +58,9 @@
      <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\SetStartVolume.cs" />
+     <Compile Include="Assets\Scripts\Shooter.cs" />
      <Compile Include="Assets\Scripts\Stone.cs" />
+     <Compile Include="Assets\Shredder.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
